@@ -1,0 +1,23 @@
+{
+  "name": "NAOSA Tickets",
+  "short_name": "Tickets",
+  "description": "Sistema de gestión de tickets de soporte NAOSA.",
+  "start_url": "/index.php",
+  "display": "standalone",
+  "background_color": "#00609c",
+  "theme_color": "#00609c",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/img/logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/img/logo-naosa.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
